@@ -26,9 +26,9 @@ Best performing model was : Random Forest Regression
 
 Tools used :
 
-Pandas
-Sikit Learn
-Matplotlib
+Pandas,
+Sikit Learn,
+Matplotlib,
 Numpy
 
 
