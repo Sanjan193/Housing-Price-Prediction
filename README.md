@@ -1,5 +1,5 @@
 # Housing-Price-Prediction
-Dveloped a machine learning model to predict house prices using property features like area and location,to predict the best price possible of a house overall for any realestate business organization.Check out for details.
+Developed a machine learning model to predict house prices using property features like area and location,to predict the best price possible of a house overall for any realestate business organization.Check out for details.
 
 --------------------------------------------------------------------------------------------------------------------
 After testing multiple models, the Random Forest Regressor gave the highest accuracy, helping estimate property values more reliably.
