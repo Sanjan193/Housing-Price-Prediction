@@ -5,6 +5,7 @@ Developed a machine learning model to predict house prices using property featur
 After testing multiple models, the Random Forest Regressor gave the highest accuracy, helping estimate property values more reliably.
 
 Tested 3 models to compare the mean and STD errors, and here is the results :
+
 1.Model = Random Forest regression
 
      Mean =49655.329727783785
